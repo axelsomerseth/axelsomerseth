@@ -3,8 +3,8 @@
 - 📫 How to reach me: [My email](mailto:axelsomerseth@gmail.com)
 - ⚡ Fun fact: I bought Bitcoin at $64k then sold it at $38k (It's a joke xD).
 
-[![Axel's github stats](https://github-readme-stats.vercel.app/api?username=axelsomerseth&show_icons=true&theme=radical&count_private=true&show_icons=true)](https://github.com/axelsomerseth)  
-[![Axel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axelsomerseth&layout=compact&theme=radical)](https://github.com/axelsomerseth/github-readme-stats)
+[![Axel's github stats](https://github-readme-stats.vercel.app/api?username=axelsomerseth&show_icons=true&theme=dark&count_private=true)](https://github.com/axelsomerseth)  
+[![Axel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axelsomerseth&layout=compact&theme=dark)](https://github.com/axelsomerseth/github-readme-stats)
 
 
 <!--
