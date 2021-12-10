@@ -7,7 +7,7 @@
 
 [![Axel's github stats](https://github-readme-stats.vercel.app/api?username=axelsomerseth&show_icons=true&theme=dracula&count_private=true)](https://github.com/axelsomerseth)
 
-[![Axel's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axelsomerseth&layout=compact&theme=dracula&langs_count=7?hide=java,asp)](https://github.com/axelsomerseth/github-readme-stats)
+[![Axel's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axelsomerseth&layout=compact&theme=dracula&langs_count=7&hide=java,asp)](https://github.com/axelsomerseth/github-readme-stats)
 
 
 ### Follow  Me ✨
