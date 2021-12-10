@@ -2,12 +2,12 @@
 - 🌱 I’m currently learning Go Language, Unit Testing, Backend best practices, Design Patterns, API's and Microservices.
 - 📫 How to reach me: [My email](mailto:axelsomerseth@gmail.com)
 - 🤔 I’m looking for help with backend best practices.
-- ⚡ Fun fact: I bought Bitcoin at $64k then sold it at $38k (It's a joke xD).
+- ⚡ Fun fact: I bought Bitcoin at $64k then sold it at $38k.
 
 
-[![Axel's github stats](https://github-readme-stats.vercel.app/api?username=axelsomerseth&show_icons=true&theme=dracula&count_private=true)](https://github.com/axelsomerseth)
+[![Axel's github stats](https://github-readme-stats.vercel.app/api?username=axelsomerseth&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/axelsomerseth)
 
-[![Axel's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axelsomerseth&layout=compact&theme=dracula&langs_count=7&hide=java,asp)](https://github.com/axelsomerseth/github-readme-stats)
+[![Axel's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axelsomerseth&layout=compact&theme=gruvbox&langs_count=7&hide=java,asp)](https://github.com/axelsomerseth/github-readme-stats)
 
 
 ### Follow  Me ✨
