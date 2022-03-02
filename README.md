@@ -1,8 +1,10 @@
-### Hi there 👋
-- 🌱 I’m currently learning Go Language, Unit Testing, Backend best practices, Design Patterns, API's and Microservices.
+### Hi there, nice to meet you 👋
+- 🌱 I’m currently learning JavaScript Full-Stack development (React + Node.js), Unit Testing, Design Patterns, API's and Microservices.
 - 📫 How to reach me: [My email](mailto:axelsomerseth@gmail.com)
-- 🤔 I’m looking for help with backend best practices.
-- ⚡ Fun fact: I bought Bitcoin at $64k then sold it at $38k.
+- 🤔 I’m looking for best practices in full-stack development and software engineering.
+- 🇺🇸 I'm practicing American English every day.
+- ⚡ Fun fact: I bought Bitcoin at $64k then I sold it at $38k.
+
 
 
 [![Axel's github stats](https://github-readme-stats.vercel.app/api?username=axelsomerseth&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/axelsomerseth)
