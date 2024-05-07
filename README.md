@@ -1,9 +1,5 @@
 ### Hi there, nice to meet you 👋
-- 🌱 I’m currently learning JavaScript Full-Stack development (React + Node.js), Unit Testing, Design Patterns, API's and Microservices.
 - 📫 How to reach me: [My email](mailto:axelsomerseth@gmail.com)
-- 🤔 I’m looking for best practices in full-stack development and software engineering.
-- 🇺🇸 I'm practicing American English every day.
-- ⚡ Fun fact: I bought Bitcoin at $64k then I sold it at $38k.
 
 
 
