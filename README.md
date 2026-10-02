@@ -1,3 +1,4 @@
+<!--
 ### Hi there, nice to meet you 👋
 - 📫 How to reach me: [My email](mailto:axelsomerseth@gmail.com)
 
@@ -17,7 +18,6 @@
 </p>
 
 
-<!--
 **axelsomerseth/axelsomerseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
